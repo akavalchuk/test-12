@@ -1,0 +1,1 @@
+{"appName":"default-git-source","userGivenName":"default-git-source","destNamespace":"test-12","destServer":"https://kubernetes.default.svc","srcPath":"resources_test-12","srcRepoURL":"https://github.com/akavalchuk/test-12_git-source.git","srcTargetRevision":"","labels":{"codefresh_io_entity":"git-source"},"exclude":"","include":""}

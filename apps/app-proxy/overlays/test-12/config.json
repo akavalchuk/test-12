@@ -1,1 +1,0 @@
-{"appName":"app-proxy","userGivenName":"app-proxy","destNamespace":"test-12","destServer":"https://kubernetes.default.svc","srcPath":"apps/app-proxy/overlays/test-12","srcRepoURL":"https://github.com/akavalchuk/test-12.git","srcTargetRevision":"","labels":{"codefresh_io_entity":"component"}}
